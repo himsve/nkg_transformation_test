@@ -6,6 +6,9 @@ This repository has a QGIS project where the NKG transformation between EPSG:778
 
 - NKG.gpkg (data in GeoPackage format)
 - NKG_transformation.qgz (QGIS workspace)
+- QGIS layers:
+  1. NKG_original_Helmert (original PAR_2020_NO)
+  2. NKG_modified_Helmert (modified PAR_2020_NO)
 
 1. Input to the transformation:
     - geocentric ITRF2014 coordinates of the norwegian PGS stations in epoch 2020.0.
