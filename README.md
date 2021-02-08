@@ -4,6 +4,7 @@ This repository has a QGIS project where the NKG transformation between EPSG:778
 
 ## Content
 
+- no_kv_NKGETRF14_EPSG7922_2000.tif (ETRD14-EPSG7922 correction grid)
 - NKG.gpkg (data in GeoPackage format)
 - NKG_transformation.qgz (QGIS workspace)
 - QGIS layers:
